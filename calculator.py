@@ -7,3 +7,5 @@ def multifly(a,b):
   return a*b
 def devide_new(a,b):
   return a/b
+def say_hello(a,b):
+  print("hello")
